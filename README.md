@@ -7,13 +7,16 @@ Dataset Link: https://www.kaggle.com/datasets/miadul/synthetic-diabetes-predicti
 
 ## Workload Division
 We split the project into 3 categories and each volunteered to take on one category </br>
+
 * Data Cleaning and Exploratory Analysis - Sarah
 * Statistical Analysis and Hypothesis Testing - Adrian
 * Data Visualization and Modeling - Eman
+
 Extra workloads such as: </br>
 * Writing the final report
 * Drafting and designing the final presentation
 * Folder structure and organization </br>
+
 Were divided as evenly as possible between all group members with communication between all.
 
 ## Work structure
